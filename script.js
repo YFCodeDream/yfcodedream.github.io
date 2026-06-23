@@ -60,6 +60,8 @@ const translations = {
     paperSevenText: "Cross-modal distillation and feedback learning for faithful news image captioning.",
     paperEightText:
       "A mixture-of-specialized-vision-experts framework for faithful MLLM reasoning, using complementary visual insights and token-efficient expert routing.",
+    paperNineText:
+      "A benchmark with 308 image-question pairs that probes LMM hallucinations caused by missing, ambiguous, and conflicting synthetic visual prompts and object references.",
     notPublic: "Not public",
     expKicker: "Experience",
     expTitle: "Internships, education, and awards",
@@ -154,6 +156,7 @@ const translations = {
     paperSixText: "面向检索增强 VQA 的知识验证与域交互学习。",
     paperSevenText: "面向真实新闻图像描述的跨模态蒸馏与反馈学习。",
     paperEightText: "面向可信 MLLM 推理的专用视觉专家混合框架，通过互补视觉洞察和 token 高效专家路由提升推理质量。",
+    paperNineText: "包含 308 组图像-问题样本的合成视觉提示幻觉基准，覆盖提示或对象缺失、歧义以及视觉属性冲突等场景。",
     notPublic: "未公开",
     expKicker: "经历",
     expTitle: "实习、教育与荣誉",
